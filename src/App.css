@@ -1,0 +1,14 @@
+.moduleSection {
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-collapse: collapse;
+    border-radius: 6px;
+    width: 100%;
+}
+
+.status {
+    height: 35px;
+    padding: 0 20px;
+    text-align: right;
+    width: 1
+}
